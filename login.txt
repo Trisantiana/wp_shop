@@ -1,0 +1,3 @@
+username : fashion
+pass : fashion.muslim2018
+email : fashion@gmail.com
